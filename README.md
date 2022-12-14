@@ -1,4 +1,4 @@
-# RM-Python-small-programs #
+# autor RM small programs in Python #
 Některé programy jsou z knihy o pythonu: Automate the Boring Stuff with Python Programming od: Al Sweigart
 
 1. ## Hadej číslo ##
