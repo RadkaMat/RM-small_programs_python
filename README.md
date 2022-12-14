@@ -13,6 +13,8 @@ Některé programy jsou z knihy o pythonu: Automate the Boring Stuff with Python
 4. ## Ověř číslo - Luhnův algoritmus ##
 - ověří platnost uživatelova čísla bez omezení počtu cifer na základě Luhnova algoritmu
 
+
+
 Nápady na zlepšení programů:
 
   1. u hádání čísla přidat možnost: uživatel omylem hádá stejné číslo 2x,
