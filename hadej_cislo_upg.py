@@ -34,3 +34,5 @@ for i in range(1,20):
 			print('Uhádl/a jsi na ' + str(i) + '. pokus!')
 			print(nespravna_cisla)
 			break
+else:
+	pass
