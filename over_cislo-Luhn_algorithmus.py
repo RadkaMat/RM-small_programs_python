@@ -1,3 +1,5 @@
+# Program kontroluje platnost čísla Luhnovým algoritmem podle Engeto Python lekce 8.: Pokročilější práce s funkcemi.
+
 cislo = input("Prosím, zadejte číslo své karty: ")
 print(len(cislo))
 cifry = []
