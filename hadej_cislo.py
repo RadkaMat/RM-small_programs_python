@@ -1,4 +1,6 @@
+# program na hadani cisla podle knihy: Automate boting stuff with python
 import random
+
 hadej = random.randint(1, 20)
 print('Myslím si číslo od 1 do 20')
 print('Hádej to číslo.')
