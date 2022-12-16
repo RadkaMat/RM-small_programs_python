@@ -1,4 +1,5 @@
-#E-shop. Když si něco přidáš do košíku, evidují se dané položky, počet kusů a sčítá se celková cena. U nedostupného zboží uvidíte: „Zboží není skladem“, u nenabízeného zboží: „Zboží nyní není v prodeji“. Nakonec zkontroluješ celý košík a ujistíš se, že máš všechno.
+# Program nákupního košíku v e-shopu podle Engeto Python lekce 5.: While cyklus.
+# Když si něco přidáš do košíku, evidují se dané položky, počet kusů a sčítá se celková cena. U nedostupného zboží uvidíte: „Zboží není skladem“, u nenabízeného zboží: „Zboží nyní není v prodeji“. Nakonec zkontroluješ celý košík a ujistíš se, že máš všechno.
 import pandas as pd
 
 nazev_zbozi = ['trvanlivé mléko','vepřová pečeně', 'banán žlutý', 'jogurt bílý', 'chléb konzumní', 'jablka červená', 'pomeranč']
